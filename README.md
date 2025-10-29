@@ -9,7 +9,7 @@
     
   <div style="text-align: center;">
         
-- I'm currently working on **Web developer**
+- I'm working on **Web developer**
 
 - I'm currently learning **Computer vision ...**
 
